@@ -14,6 +14,7 @@ public class MaxLengthOfPalindrome {
         String s = longestPalindrome(a);
 
         System.out.println("最长回文字符串是：" + s);
+        System.out.println("最长回文字符串是：" + s);
     }
 
     public static String longestPalindrome(String s){
