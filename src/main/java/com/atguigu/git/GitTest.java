@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("更新中...");
         System.out.println("更新中1...");
+        System.out.println("hot-fix commit");
     }
 }
